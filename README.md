@@ -33,7 +33,7 @@ A classic Pong game implemented in Python using the `turtle` module. This projec
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/pong-game.git
+   git clone https://github.com/BhavikJaviya24/pong-game.git
    cd pong-game
    ```
 2. Ensure Python 3.x is installed on your system.
